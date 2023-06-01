@@ -1,0 +1,20 @@
+{
+  "name": "graphql-client-unity",
+  "version": "2.1.0",
+  "description": "GraphQL-client-unity is, as the name implies, a graphQl client for the Unity game engine. Its major aim is to simplify the creation of graphQl queries and make graphQl features like subscriptions as straightforward as possible.",
+  "unity": "2021.3",
+  "unityRelease": "24f1",
+  "license": "MIT",
+  "keywords": [
+    "unity",
+    "graphql"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TemptressLuna/graphQL-client-unity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TemptressLuna/graphQL-client-unity/issues"
+  },
+  "homepage": "https://github.com/TemptressLuna/graphQL-client-unity#readme"
+}
